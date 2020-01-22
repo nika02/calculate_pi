@@ -1,6 +1,3 @@
-# julia_cal_pi
+# Caclculating pi in Julia
 
-Using this equation:
-1/1 + 1/4 + 1/9 + 1/16 + … = π^2 / 6
-
-The function mypi takes a single argument n and returns the value of π.
+The function uses the following equation: 1/1 + 1/4 + 1/9 + 1/16 + … = π^2 / 6 and has a function mypi which takes a single argument n and returns the value of π.
